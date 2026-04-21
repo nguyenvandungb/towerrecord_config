@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "rewards": [
+    {
+      "rwID": 0,
+      "name": "AAAAAA 賞"
+    },
+    {
+      "rwID": 1,
+      "name": "B 賞"
+    },
+    {
+      "rwID": 2,
+      "name": "C 賞"
+    },
+    {
+      "rwID": 3,
+      "name": "D 賞"
+    },
+    {
+      "rwID": 4,
+      "name": "E 賞"
+    },
+    {
+      "rwID": 5,
+      "name": "F 賞"
+    },
+    {
+      "rwID": 6,
+      "name": "G 賞"
+    },
+    {
+      "rwID": 7,
+      "name": "H 賞"
+    },
+    {
+      "rwID": 8,
+      "name": "I 賞"
+    },
+    {
+      "rwID": 9,
+      "name": "J 賞"
+    },
+    {
+      "rwID": 10,
+      "name": "K 賞"
+    },
+    {
+      "rwID": 11,
+      "name": "L 賞"
+    },
+    {
+      "rwID": 12,
+      "name": "M 賞"
+    },
+    {
+      "rwID": 13,
+      "name": "N 賞"
+    },
+    {
+      "rwID": 14,
+      "name": "SORRY"
+    }
+    
+  ]
+}
